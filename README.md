@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Provenance
 
 A common architecture used for data collection.
@@ -113,3 +114,6 @@ Thanks,
 The IC Team
 
 © 2022 by Initial Capacity, Inc. All rights reserved.
+=======
+# hw4
+>>>>>>> 3953abfd84c533480686fdd2881b15cbe82e6582
