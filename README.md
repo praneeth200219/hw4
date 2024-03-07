@@ -118,4 +118,4 @@ The IC Team
 # hw4
 >>>>>>> 3953abfd84c533480686fdd2881b15cbe82e6582
 >>>>>>>
-<img src="images/docker.png" width="128"/>
+<img src="docker.png" width="128"/>
