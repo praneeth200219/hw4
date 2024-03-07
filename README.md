@@ -122,3 +122,5 @@ The IC Team
 https://warm-river-15121-de88593bb934.herokuapp.com/
 # Docker Container Running
 <img src="Docker.png">
+# Staging Application
+<img src="staging application.png">
