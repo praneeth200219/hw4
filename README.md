@@ -123,8 +123,12 @@ https://warm-river-15121-de88593bb934.herokuapp.com/
 # Docker Container Running
 <img src="Docker.png">
 
+Heroku Application CI/CD Pipeline Dashboard
+<img src="dash.png">
+
 Staging Application
 <img src="staging application.png">
 
 Production Application
 <img src="production.png">
+
